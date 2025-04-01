@@ -1,0 +1,1 @@
+This contains the scripts and some microbial data to plot the figures from the manuscript. All sequencing data generated in the preparation of this manuscript has been deposited in https://www.ncbi.nlm.nih.gov/bioproject/ with BioProject Accession ... (Accession: ...).
