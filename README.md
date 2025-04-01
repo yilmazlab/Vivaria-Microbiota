@@ -1,18 +1,44 @@
 # Vivaria Microbiota
-The scripts and data deposited in this repository represent the analysis we ran in our manuscript published in ... in 202.. Link to manuscript:
 
-The pipelines that were followed in this study are
+This repository contains the scripts and data used in our manuscript published in ... (202..). The study focuses on analyzing microbiota data using state-of-the-art bioinformatics pipelines. 
 
-- QIIME (http://qiime.org)
-- Phyloseq (https://joey711.github.io/phyloseq/)
-- MaAsLin2 (https://huttenhower.sph.harvard.edu/maaslin/)
-- Kraken2 (https://ccb.jhu.edu/software/kraken2/)
-- Braken (https://ccb.jhu.edu/software/bracken/)
-- InStrain (https://instrain.readthedocs.io/en/latest/)
-- HAllA (https://huttenhower.sph.harvard.edu/halla/)
-- metaWRAP (https://github.com/bxlab/metaWRAP)
+## Manuscript
+Link to manuscript: [Insert Link Here]
 
-**Data and Code Availability** All metagenomic sequencing data generated in this study has been deposited in ... with BioProject Accession  (Accession: ). The 16S rRNA amplicon sequencing dataset with processed files and the entire details of used samples can be downloaded using the following link: https://figshare.com/s/6b9e2c30c49bef0790ef (DOI: 10.6084/m9.figshare.24523324). No new code was developed in this study. We just followed the developers' suggestions in our analysis with minor optimizations.
+## Overview of the Pipelines
+The following pipelines and tools were utilized in this study:
+
+1. **QIIME** ([Documentation](http://qiime.org)) - For microbial community analysis.
+2. **Phyloseq** ([Documentation](https://joey711.github.io/phyloseq/)) - For microbiome data analysis and visualization in R.
+3. **MaAsLin2** ([Documentation](https://huttenhower.sph.harvard.edu/maaslin/)) - For multivariable association analysis.
+4. **Kraken2** ([Documentation](https://ccb.jhu.edu/software/kraken2/)) - For taxonomic classification of metagenomic sequences.
+5. **Braken** ([Documentation](https://ccb.jhu.edu/software/bracken/)) - For abundance estimation from Kraken2 outputs.
+6. **InStrain** ([Documentation](https://instrain.readthedocs.io/en/latest/)) - For strain-level analysis of metagenomic data.
+7. **HAllA** ([Documentation](https://huttenhower.sph.harvard.edu/halla/)) - For discovering multi-omic associations.
+8. **metaWRAP** ([Documentation](https://github.com/bxlab/metaWRAP)) - For metagenomic data analysis and binning.
+9. **MIMOSA2** ([Documentation](https://borenstein-lab.github.io/MIMOSA2shiny/)) - For metabolic modeling and analysis.
+
+## Data and Code Availability
+- **Metagenomic Sequencing Data**: All data generated in this study has been deposited in ... with BioProject Accession (Accession: [Insert Accession Here]).
+- **16S rRNA Amplicon Sequencing Dataset**: Processed files and sample details can be downloaded from [Figshare](https://figshare.com/s/6b9e2c30c49bef0790ef) (DOI: [10.6084/m9.figshare.24523324](https://doi.org/10.6084/m9.figshare.24523324)).
+
+> **Note**: No new code was developed in this study. We followed the developers' recommendations for each tool with minor optimizations.
+
+## How to Reproduce the Analysis
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-repo/Vivaria-Microbiota.git
+   cd Vivaria-Microbiota
+   ```
+2. Follow the documentation for each pipeline listed above to set up the required tools and dependencies.
+3. Use the provided data and scripts to replicate the analysis.
+
+## Citation
+If you use this repository or data in your research, please cite our manuscript:
+[Insert Citation Here]
+
+## Contact
+For questions or issues, please contact [Your Name/Email].
 
 
 
