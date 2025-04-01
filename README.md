@@ -22,9 +22,13 @@ The following pipelines and tools were utilized in this study:
 - **Metagenomic Sequencing Data**: All data generated in this study has been deposited in ... with BioProject Accession (Accession: [Insert Accession Here]).
 - **16S rRNA Amplicon Sequencing Dataset**: Processed files and sample details can be downloaded from [Figshare](https://figshare.com/s/6b9e2c30c49bef0790ef) (DOI: [10.6084/m9.figshare.24523324](https://doi.org/10.6084/m9.figshare.24523324)).
 
+- **An R Shiny app** was created to facilitate quick and efficient exploration of the meta-omics dataset from this study. The app is accessible at the following URLs:
+  - OMICS data: [https://yilmazlab.shinyapps.io/vivaria_app/](https://yilmazlab.shinyapps.io/vivaria_app/)
+  - Vivaria variants: [https://yilmazlab.shinyapps.io/vivaria_app2/](https://yilmazlab.shinyapps.io/vivaria_app2/)
+
 > **Note**: No new code was developed in this study. We followed the developers' recommendations for each tool with minor optimizations.
 
-## How to Reproduce the Analysis
+## How to apply similar the analysis
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/Vivaria-Microbiota.git
@@ -38,7 +42,7 @@ If you use this repository or data in your research, please cite our manuscript:
 [Insert Citation Here]
 
 ## Contact
-For questions or issues, please contact [Your Name/Email].
+For questions or issues, please contact [Bahtiyar Yilmaz : bahtiyar.yilmaz@unibe.ch].
 
 
 
