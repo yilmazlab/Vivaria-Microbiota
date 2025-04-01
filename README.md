@@ -8,7 +8,7 @@ Link to manuscript: [Insert Link Here]
 ## Overview of the Pipelines
 The following pipelines and tools were utilized in this study:
 
-1. **QIIME** ([Documentation](http://qiime.org)) - For microbial community analysis.
+1. **QIIME2** ([Documentation](https://qiime2.org)) - For microbial community analysis.
 2. **Phyloseq** ([Documentation](https://joey711.github.io/phyloseq/)) - For microbiome data analysis and visualization in R.
 3. **MaAsLin2** ([Documentation](https://huttenhower.sph.harvard.edu/maaslin/)) - For multivariable association analysis.
 4. **Kraken2** ([Documentation](https://ccb.jhu.edu/software/kraken2/)) - For taxonomic classification of metagenomic sequences.
@@ -42,7 +42,7 @@ If you use this repository or data in your research, please cite our manuscript:
 [Insert Citation Here]
 
 ## Contact
-For questions or issues, please contact [Bahtiyar Yilmaz : bahtiyar.yilmaz@unibe.ch].
+For questions or issues, please contact [Prof.Dr.Bahtiyar Yilmaz : bahtiyar.yilmaz@unibe.ch].
 
 
 
