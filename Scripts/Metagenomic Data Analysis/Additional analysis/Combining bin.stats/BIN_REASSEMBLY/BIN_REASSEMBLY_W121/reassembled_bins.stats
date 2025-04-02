@@ -1,0 +1,11 @@
+bin	completeness	contamination	GC	lineage	N50	size
+bin.10.strict	80.27	1.452	0.406	Pasteurellaceae	3329	1973475
+bin.1.permissive	90.92	1.161	0.372	Campylobacterales	12902	1603228
+bin.2.strict	87.61	0.670	0.431	Lachnospiraceae	7763	3867185
+bin.3.orig	98.91	1.086	0.398	Lactobacillales	86130	2084456
+bin.4.orig	99.22	0.176	0.692	Actinomycetales	50017	2204394
+bin.5.permissive	82.64	1.532	0.461	Lachnospiraceae	7893	3415161
+bin.6.strict	100.0	0.0	0.424	Lactobacillales	44399	2334797
+bin.7.orig	58.62	0.0	0.340	Bacteria	71705	782991
+bin.8.orig	98.77	0.540	0.399	Lactobacillales	26313	2198827
+bin.9.orig	100.0	1.123	0.271	Bacteria	34142	2081982

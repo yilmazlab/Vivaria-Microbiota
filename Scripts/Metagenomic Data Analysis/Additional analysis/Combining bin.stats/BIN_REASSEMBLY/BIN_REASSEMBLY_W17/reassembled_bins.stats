@@ -1,0 +1,13 @@
+bin	completeness	contamination	GC	lineage	N50	size
+bin.10.orig	98.38	0.0	0.296	Clostridiales	423975	3514140
+bin.11.orig	67.76	2.713	0.337	Lactobacillus	4560	1368066
+bin.12.orig	58.15	4.879	0.354	Lactobacillus	3449	1174461
+bin.1.orig	99.25	0.704	0.331	Campylobacterales	70836	1812036
+bin.2.orig	99.82	0.0	0.367	Campylobacterales	71799	1723052
+bin.3.permissive	87.13	0.928	0.400	Lactobacillales	6299	1994036
+bin.4.orig	97.39	0.929	0.461	Bacteroidales	49171	4530000
+bin.5.permissive	86.32	0.418	0.498	Clostridia	17298	2014608
+bin.6.orig	100.0	0.754	0.393	Lactobacillales	47576	2275955
+bin.7.strict	91.42	2.315	0.282	Clostridiales	9343	3655242
+bin.8.orig	100.0	0.706	0.359	Campylobacterales	143125	1749988
+bin.9.orig	70.81	0.0	0.314	Bacteria	4496	1566166

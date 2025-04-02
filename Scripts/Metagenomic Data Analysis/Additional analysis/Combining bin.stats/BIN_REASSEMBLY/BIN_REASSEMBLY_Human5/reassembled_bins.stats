@@ -1,0 +1,17 @@
+bin	completeness	contamination	GC	lineage	N50	size
+bin.10.strict	95.66	0.460	0.602	Bifidobacteriaceae	51729	2072352
+bin.11.strict	82.27	0.454	0.597	Bifidobacteriaceae	153009	1643011
+bin.12.orig	62.45	3.376	0.459	Firmicutes	1827	1555141
+bin.13.strict	63.53	1.724	0.605	Bacteria	4143	1316685
+bin.14.strict	97.05	0.680	0.563	Clostridiales	15818	2331261
+bin.15.orig	98.73	0.632	0.456	Clostridiales	49495	3021433
+bin.16.strict	80.73	0.368	0.565	Bifidobacteriaceae	14862	2027935
+bin.1.permissive	95.35	2.215	0.409	Clostridiales	30979	3385756
+bin.2.permissive	80.85	0.680	0.575	Clostridiales	9181	2060999
+bin.3.permissive	86.29	4.225	0.363	Clostridiales	7873	2402169
+bin.4.permissive	73.98	1.198	0.637	Actinobacteria	3688	2223048
+bin.5.orig	90.17	4.957	0.484	Clostridiales	9194	2834701
+bin.6.permissive	78.03	1.785	0.599	Bacteria	16586	1885782
+bin.7.strict	91.10	1.398	0.418	Clostridiales	7653	1655335
+bin.8.strict	97.78	5.063	0.416	Clostridiales	27373	6055835
+bin.9.strict	93.65	3.797	0.484	Clostridiales	21134	2856840
