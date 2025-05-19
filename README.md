@@ -28,14 +28,14 @@ The following pipelines and tools were utilized in this study:
 
 > **Note**: No new code was developed in this study. We followed the developers' recommendations for each tool with minor optimizations.
 
-## How to apply similar the analysis
+## How to apply similar the analysis to your studies
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/Vivaria-Microbiota.git
    cd Vivaria-Microbiota
    ```
 2. Follow the documentation for each pipeline listed above to set up the required tools and dependencies.
-3. Use the provided data and scripts to replicate the analysis.
+3. Use the provided data and scripts to replicate the representative analysis.
 
 ## Citation
 If you use this repository or data in your research, please cite our manuscript:
