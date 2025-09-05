@@ -44,5 +44,9 @@ If you use this repository or data in your research, please cite our manuscript:
 ## Contact
 For questions or issues, please contact [Prof.Dr.Bahtiyar Yilmaz : bahtiyar.yilmaz@unibe.ch].
 
+## License and third-party code
+This repository is released under the MIT License. The MIT License applies to materials authored in this repository, including wrapper scripts, configuration files, and example workflows.
+Please note that this repository makes use of third-party tools and published pipelines (e.g., QIIME2, MaasLin2, StrainCascade, etc.). These tools retain their original licenses and are not re-licensed under MIT by inclusion here. Users must comply with the respective licenses of these external software packages.
+
 
 
